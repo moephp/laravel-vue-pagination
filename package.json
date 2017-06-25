@@ -1,20 +1,20 @@
 {
-  "name": "laravel-vue-pagination",
+  "name": "laravel-vue-pagination-uikit",
   "version": "1.0.6",
-  "description": "Vue.js pagination component for Laravel paginators and Bootstrap styles",
-  "author": "Gilbert Pellegrom <gilbert@pellegrom.me>",
-  "homepage": "https://github.com/gilbitron/laravel-vue-pagination",
+  "description": "Vue.js pagination component for Laravel paginators and UIKit",
+  "author": "orvice <js@orx.me>",
+  "homepage": "https://github.com/orvice/laravel-vue-pagination",
   "license": "MIT",
   "keywords": [
     "vue",
     "component",
-    "bootstrap",
+    "UIKit",
     "laravel",
     "pagination"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/gilbitron/laravel-vue-pagination.git"
+    "url": "https://github.com/orvice/laravel-vue-pagination.git"
   },
   "main": "src/laravel-vue-pagination.js",
   "scripts": {
